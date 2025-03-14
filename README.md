@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkyancen
 - 👀 I’m interested in Python, Java and Android development
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning and working
 - 📫 How to reach me [Telegram] (https://t.me/nikita_yantsen), [e-mail] (nkyancen@yandex.ru)
 - ⚡ Fun fact: not yet
 
