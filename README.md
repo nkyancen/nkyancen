@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkyancen
 - 👀 I’m interested in Python, Android development, Java, and more form Physics, Math, Computer Science
-- 🌱 I’m currently learning and working
+- 🌱 I’m currently learning in Yandex Practicum and working in MRSU
 - 📫 How to reach me [Telegram] (https://t.me/nikita_yantsen), [e-mail] (nkyancen@yandex.ru)
 - ⚡ Fun fact: not yet
 
